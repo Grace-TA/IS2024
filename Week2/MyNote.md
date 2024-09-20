@@ -18,4 +18,8 @@ Definition: A system is a collection of interconnected components or elements th
 
 Classic Example: An Inventory Management System used in a warehouse is a classic example of a system. It consists of hardware (computers, barcode scanners), software (inventory management applications), data (stock levels, shipment details), people (warehouse staff), and processes (reordering, restocking) working together to ensure that stock levels are tracked and orders are fulfilled efficiently.
 
+## What is Information System?
+
+An Information System (IS) is a coordinated set of components, including hardware, software, data, people, and processes, that work together to collect, process, store, and disseminate information. The primary purpose of an IS is to support decision-making, communication, and business operations by transforming raw data into meaningful information that aids in achieving organizational goals.
+
 ![image](https://github.com/user-attachments/assets/1aba620f-3138-4c15-8b93-50ca036e84d3)
