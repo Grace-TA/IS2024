@@ -19,6 +19,16 @@ Ans.: Walmart employs sophisticated supply chain management systems to ensure se
 
 ## Labs
 
-### 1 Lab 1 – Examining Your PC in Classroom
+### Lab 1 – Examining Your PC in Classroom
 
-![image](https://github.com/user-attachments/assets/7f4226df-1499-42db-b849-d21770515433)
+![image](https://github.com/user-attachments/assets/fb69b409-2c44-4e03-a50a-fdb70d7bb33a)
+
+### Lab 2 – Examining Your Mobile Phone
+
+![image](https://github.com/user-attachments/assets/915f36c9-5615-46d0-8414-31b644b09db9)
+
+### Lab 3 – Evolution of Personal Devices
+
+![image](https://github.com/user-attachments/assets/b0942626-a3fd-41f1-bcf3-f8ac13f84eeb)
+
+
