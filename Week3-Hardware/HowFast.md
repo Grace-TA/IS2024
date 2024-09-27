@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/8160396b-6727-48a5-951a-61addbe17bb9)
 
+![image](https://github.com/user-attachments/assets/f4313184-0b50-4891-914e-9a209fb2e8a8)
+
 Here’s a detailed summary of the speed characteristics of core computer components, along with real-life examples:
 
 ### 1. CPU (Central Processing Unit)
