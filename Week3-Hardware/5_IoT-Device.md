@@ -8,7 +8,7 @@
 
 ## Raspberry: a small, affordable single-board computer capable of running a full Linux operating system. It’s popular for a wide range of projects, from basic computing tasks to complex systems such as home automation
 
-![image](https://github.com/user-attachments/assets/47baf721-ef18-4245-bcd4-3db7e5e2b98d)
+![image](https://github.com/user-attachments/assets/373f724d-f5ec-47f5-8ff3-2d1550d7f572)
 
 
 ## Comparison
