@@ -4,7 +4,7 @@
 
 For details, please refer to the link of PDF file. Thanks!
 
-https://github.com/Grace-TA/IS2024/blob/main/Week4-Software/W6_Software-ShortLabs.ipynb%20-%20Colab.pdf
+https://github.com/Grace-TA/IS2024/blob/main/Week5-Software/Software-ShortLabs.ipynb%20-%20Colab.pdf
 
 ![image](https://github.com/user-attachments/assets/b0fe6b0b-0dd4-4fae-8351-0716bd9c56be)
 
