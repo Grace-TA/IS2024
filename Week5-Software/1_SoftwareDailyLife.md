@@ -25,4 +25,3 @@ It seems that I can't directly display images inside the table format. However, 
 | 4       | Notion             |![image](https://github.com/user-attachments/assets/d294bdbe-6157-418e-892e-dd3330663475)|
 | 5       | YouTube            |![image](https://github.com/user-attachments/assets/1fe96a74-f2f4-48bc-af95-284c299bbb0c)|
 
-You can replace the "Insert Image" placeholder with the actual image URLs or embed them on your page. If you're building a GitHub page, you can upload the images to your repository and reference them directly. Let me know if you'd like guidance on how to do this!
