@@ -1,0 +1,13 @@
+# Top 5 Microsoft Product I Use or Like Except MS-Office
+
+Here is a summary of the **Top 5 Microsoft products** you mentioned, excluding MS-Office, with details on **introduction, application, price**, and placeholders for **images**:
+
+| **No.** | **Product Name**       | **Introduction**                                                                                             | **Application**                                                   | **Price**                  | **Product Image**             |
+|---------|------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------|-------------------------------|
+| 1       | **Microsoft Teams**     | A collaboration platform offering chat, video conferencing, and file sharing for remote teams and meetings.  | Used for online meetings, team collaboration, and real-time chat. | Free with limited features or $4 to $12.50 per user per month (for premium features). | ![image](https://github.com/user-attachments/assets/c35e0936-43eb-48f8-93a0-57454ce8e8a2) |
+| 2       | **Microsoft PowerToys** | A set of utilities for advanced Windows users to streamline tasks and enhance productivity.                   | Display layout management, keyboard shortcuts, and file renaming. | Free                      |![image](https://github.com/user-attachments/assets/e31d43f3-83c5-45b9-95a5-f4e64631d3d2) |
+| 3       | **Microsoft Copilot**   | An AI-powered tool integrated into Microsoft products to assist with content generation, image creation, and automation. | Assists in tasks such as document creation and image generation.  | Included with Microsoft 365 pricing | ![image](https://github.com/user-attachments/assets/b78ba2a0-2cf0-42dc-9d17-d2bfd1f75606)|
+| 4       | **Microsoft Edge**      | Microsoft’s fast and secure web browser, offering better integration with Microsoft services and privacy features. | Used for web browsing, Microsoft platform apps, and privacy-focused online usage. | Free                      | ![image](https://github.com/user-attachments/assets/811e9228-f231-4a7a-a317-09ce45b60d2b)|
+| 5       | **Microsoft Windows 10**| A widely used operating system known for stability, security, and a user-friendly interface.                 | Operating system for personal computers, laptops, and tablets.    | Windows 10 Home: $139.00, Windows 10 Pro: $199.99               |![image](https://github.com/user-attachments/assets/6b93b0ec-a4a7-4c9e-afb3-23d1f8f9c5f9)|
+
+![image](https://github.com/user-attachments/assets/11e7bb81-6d32-4ecf-9988-fcb6b97dbe93)
