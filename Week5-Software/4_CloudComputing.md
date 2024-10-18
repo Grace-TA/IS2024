@@ -10,5 +10,6 @@ A data center is a building, a dedicated space within a building, or a group of 
 
 Cloud computing[1] is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user
 
-![image](https://github.com/user-attachments/assets/506ded75-0e24-46d9-960f-00037dce6a46)
+![image](https://github.com/user-attachments/assets/c4de3467-b829-47bc-ad56-4fa10912a625)
+
 
