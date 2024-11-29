@@ -77,13 +77,7 @@ A **LAN** (Local Area Network) is a network that connects devices within a limit
 **Metcalfe’s Law** states that the value of a network is proportional to the square of the number of connected users.  
 - Mathematically, **Value ∝ n²**, where **n** is the number of users.
 
-
-![image](https://github.com/user-attachments/assets/88b943ed-6020-49e8-91c7-8de700486960)
-
-
----
 - It highlights the exponential growth in value as more users join the network, making it more beneficial and attractive. This principle underpins the rapid growth of social networks and communication platforms.
 
 --- 
-
-These answers provide detailed yet concise insights for each question, maintaining clarity and professionalism.
+![image](https://github.com/user-attachments/assets/88b943ed-6020-49e8-91c7-8de700486960)
